@@ -1,3 +1,3 @@
 # CeaserCipher
 
-#### This is a terminal application
+#### This is a terminal application which encrypts and 
