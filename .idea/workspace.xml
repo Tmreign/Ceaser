@@ -22,6 +22,7 @@
       <change beforePath="$PROJECT_DIR$/../Goals/src/app/strikethrough.directive.ts" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Jesus Take The Wheel  Caleb and Kelsey.mp3" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Kutembea Nawe - Rebekah Dawn (OFFICIAL MUSIC VIDEO).mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Quotes/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Quotes/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Quotes/src/app/date-count.pipe.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../Quotes/src/app/date-count.pipe.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Quotes/src/app/quote-details/quote-details.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Quotes/src/app/quote-details/quote-details.component.html" afterDir="false" />
@@ -102,8 +103,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="95" selection-start-line="8" selection-start-column="95" selection-end-line="8" selection-end-column="95" />
+            <state relative-caret-position="225">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -377,7 +378,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="30" width="1366" height="738" extended-state="7" />
+    <frame x="0" y="30" width="1366" height="738" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
@@ -453,8 +454,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="95" selection-start-line="8" selection-start-column="95" selection-end-line="8" selection-end-column="95" />
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>

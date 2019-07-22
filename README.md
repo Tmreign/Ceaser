@@ -11,3 +11,5 @@ This app allows you to input words and the choose whether to encrypt or decrypt 
 ## Setup/Installation Requirements
 
 Run the application in terminal.
+
+### BDD
