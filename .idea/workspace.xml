@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4086d762-9513-4bf0-ae89-32a0e21711fb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Caleb and Kelsey - Timeless Worship [2018].mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Caleb and Kelsey - Worship [2018].mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Caleb and Kelsey Mashup Collections.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GithubSearch/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../GithubSearch/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GithubSearch/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../GithubSearch/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GithubSearch/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../GithubSearch/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GithubSearch/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../GithubSearch/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GithubSearch/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../GithubSearch/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GithubSearch/src/environments/environment.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../GithubSearch/src/environments/environment.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GithubSearch/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../GithubSearch/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GithubSearch/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/../GithubSearch/src/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Goals/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Goals/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Goals/src/app/goal-details/goal-details.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Goals/src/app/goal-details/goal-details.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Goals/src/app/goal-details/goal-details.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../Goals/src/app/goal-details/goal-details.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Goals/src/app/goal.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../Goals/src/app/goal.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Goals/src/app/goal/goal.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Goals/src/app/goal/goal.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Goals/src/app/goal/goal.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../Goals/src/app/goal/goal.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Goals/src/app/strikethrough.directive.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jesus Take The Wheel  Caleb and Kelsey.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kutembea Nawe - Rebekah Dawn (OFFICIAL MUSIC VIDEO).mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quotes/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Quotes/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quotes/src/app/date-count.pipe.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../Quotes/src/app/date-count.pipe.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quotes/src/app/quote-details/quote-details.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Quotes/src/app/quote-details/quote-details.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quotes/src/app/quote-form/quote-form.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Quotes/src/app/quote-form/quote-form.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quotes/src/app/quote.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../Quotes/src/app/quote.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quotes/src/app/quote/quote.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Quotes/src/app/quote/quote.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quotes/src/app/quote/quote.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../Quotes/src/app/quote/quote.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quotes/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Quotes/src/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel" beforeDir="false" afterPath="$PROJECT_DIR$/../hotel" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../johns-project" beforeDir="false" afterPath="$PROJECT_DIR$/../johns-project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../moringa-school-projects/hello-world" beforeDir="false" afterPath="$PROJECT_DIR$/../moringa-school-projects/hello-world" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pigdice" beforeDir="false" afterPath="$PROJECT_DIR$/../pigdice" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../real estate" beforeDir="false" afterPath="$PROJECT_DIR$/../real estate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../real-estate-master.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../second_ip" beforeDir="false" afterPath="$PROJECT_DIR$/../second_ip" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Encrypt.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="14" selection-start-column="14" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/EncryptionTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="38" lean-forward="true" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Decrypt.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="18" selection-start-column="18" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/DecryptionTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" column="38" lean-forward="true" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/Encrypt.java" />
+        <option value="$PROJECT_DIR$/src/test/java/EncryptionTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Decrypt.java" />
+        <option value="$PROJECT_DIR$/src/test/java/DecryptionTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/../Ceaser/.idea/Ceaser.iml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="30" />
+    <option name="width" value="663" />
+    <option name="height" value="738" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Mycipher" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Mycipher" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Mycipher" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Mycipher" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Mycipher" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Mycipher" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="App" />
+      <module name="Mycipher.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EncryptionTest.runCeaserCipher_isEntryString2_String" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;EncryptionTest.runCeaserCipher_isEntryString2_String&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="EncryptionTest.runCeaserCipher_isEntryString3_String" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;EncryptionTest.runCeaserCipher_isEntryString3_String&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="EncryptionTest.runCeaserCipher_isEntryString4_String" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;EncryptionTest.runCeaserCipher_isEntryString4_String&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="EncryptionTest.runCeaserCipher_isEntryString5_String" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;EncryptionTest.runCeaserCipher_isEntryString5_String&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+        <item itemvalue="Gradle.EncryptionTest.runCeaserCipher_isEntryString5_String" />
+        <item itemvalue="Gradle.EncryptionTest.runCeaserCipher_isEntryString4_String" />
+        <item itemvalue="Gradle.EncryptionTest.runCeaserCipher_isEntryString3_String" />
+        <item itemvalue="Gradle.EncryptionTest.runCeaserCipher_isEntryString2_String" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4086d762-9513-4bf0-ae89-32a0e21711fb" name="Default Changelist" comment="" />
+      <created>1563783031030</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563783031030</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="DecryptionTest_runCeaserCipher_isEntryString_String - 2019.07.22 at 11h 23m 19s.xml">
+      <configuration name="DecryptionTest.runCeaserCipher_isEntryString_String" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="DecryptionTest_runCeaserCipher_isEntryString_String - 2019.07.22 at 11h 23m 20s.xml">
+      <configuration name="DecryptionTest.runCeaserCipher_isEntryString_String" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="DecryptionTest_runCeaserCipher_isEntryString2_String - 2019.07.22 at 11h 23m 32s.xml">
+      <configuration name="DecryptionTest.runCeaserCipher_isEntryString2_String" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="DecryptionTest_runCeaserCipher_isEntryString3_String - 2019.07.22 at 11h 23m 37s.xml">
+      <configuration name="DecryptionTest.runCeaserCipher_isEntryString3_String" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="DecryptionTest_runCeaserCipher_isEntryString4_String - 2019.07.22 at 11h 23m 42s.xml">
+      <configuration name="DecryptionTest.runCeaserCipher_isEntryString4_String" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="EncryptionTest_runCeaserCipher_isEntryString_String - 2019.07.22 at 11h 23m 55s.xml">
+      <configuration name="EncryptionTest.runCeaserCipher_isEntryString_String" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="EncryptionTest_runCeaserCipher_isEntryString2_String - 2019.07.22 at 11h 24m 01s.xml">
+      <configuration name="EncryptionTest.runCeaserCipher_isEntryString2_String" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="EncryptionTest_runCeaserCipher_isEntryString3_String - 2019.07.22 at 11h 24m 05s.xml">
+      <configuration name="EncryptionTest.runCeaserCipher_isEntryString3_String" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="EncryptionTest_runCeaserCipher_isEntryString4_String - 2019.07.22 at 11h 24m 08s.xml">
+      <configuration name="EncryptionTest.runCeaserCipher_isEntryString4_String" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="EncryptionTest_runCeaserCipher_isEntryString5_String - 2019.07.22 at 11h 24m 13s.xml">
+      <configuration name="EncryptionTest.runCeaserCipher_isEntryString5_String" configurationId="GradleRunConfiguration" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="30" width="1366" height="738" extended-state="6" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Build" weight="0.32840723" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32840723" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Gradle" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Encrypt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/DecryptionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="38" lean-forward="true" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Decrypt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" selection-start-column="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/EncryptionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="38" lean-forward="true" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
