@@ -22,7 +22,6 @@
       <change beforePath="$PROJECT_DIR$/../Goals/src/app/strikethrough.directive.ts" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Jesus Take The Wheel  Caleb and Kelsey.mp3" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Kutembea Nawe - Rebekah Dawn (OFFICIAL MUSIC VIDEO).mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Quotes/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Quotes/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Quotes/src/app/date-count.pipe.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../Quotes/src/app/date-count.pipe.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Quotes/src/app/quote-details/quote-details.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Quotes/src/app/quote-details/quote-details.component.html" afterDir="false" />
@@ -104,7 +103,7 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="34" />
+              <caret line="8" column="95" selection-start-line="8" selection-start-column="95" selection-end-line="8" selection-end-column="95" />
             </state>
           </provider>
         </entry>
@@ -378,7 +377,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="30" width="1366" height="738" extended-state="6" />
+    <frame x="0" y="30" width="1366" height="738" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
@@ -386,7 +385,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
@@ -394,7 +393,7 @@
       <window_info anchor="bottom" id="Build" weight="0.32840723" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32840723" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32840723" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -455,7 +454,7 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="34" />
+          <caret line="8" column="95" selection-start-line="8" selection-start-column="95" selection-end-line="8" selection-end-column="95" />
         </state>
       </provider>
     </entry>

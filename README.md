@@ -7,3 +7,5 @@
 ## Description.
 
 This app allows you to input words and the choose whether to encrypt or decrypt the given word.
+
+## Setup/Installation Requirements
