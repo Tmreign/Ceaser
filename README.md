@@ -25,3 +25,5 @@ Run the application in terminal.
 
  ## Support and contact details
 slack@tom
+
+### License
