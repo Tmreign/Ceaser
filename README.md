@@ -13,3 +13,7 @@ This app allows you to input words and the choose whether to encrypt or decrypt 
 Run the application in terminal.
 
 ### BDD
+
+ | INPUT                             | BEHAVIOUR                               | OUTPUT                                                        |
+ |-----------------------------------|-----------------------------------------|---------------------------------------------------------------|
+ | User inputs word                  | The word is then encrypted  or decypted.| Decrypted or encrypted text is then displayed.     
