@@ -5,7 +5,6 @@
       <change beforePath="$PROJECT_DIR$/../Caleb and Kelsey - Timeless Worship [2018].mp3" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Caleb and Kelsey - Worship [2018].mp3" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Caleb and Kelsey Mashup Collections.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CeaserCipher/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../CeaserCipher/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../GithubSearch/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../GithubSearch/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../GithubSearch/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../GithubSearch/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../GithubSearch/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../GithubSearch/src/app/app.component.html" afterDir="false" />
@@ -23,6 +22,7 @@
       <change beforePath="$PROJECT_DIR$/../Goals/src/app/strikethrough.directive.ts" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Jesus Take The Wheel  Caleb and Kelsey.mp3" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Kutembea Nawe - Rebekah Dawn (OFFICIAL MUSIC VIDEO).mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Quotes/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Quotes/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Quotes/src/app/date-count.pipe.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../Quotes/src/app/date-count.pipe.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Quotes/src/app/quote-details/quote-details.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Quotes/src/app/quote-details/quote-details.component.html" afterDir="false" />
@@ -103,8 +103,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="14" selection-start-column="14" selection-end-column="14" />
+            <state relative-caret-position="30">
+              <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -210,6 +210,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
   </component>
@@ -453,8 +454,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        <state relative-caret-position="30">
+          <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
         </state>
       </provider>
     </entry>
