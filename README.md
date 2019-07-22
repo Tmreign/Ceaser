@@ -16,4 +16,9 @@ Run the application in terminal.
 
  | INPUT                             | BEHAVIOUR                               | OUTPUT                                                        |
  |-----------------------------------|-----------------------------------------|---------------------------------------------------------------|
- | User inputs characters                  | The word is then encrypted  or decypted.| Decrypted or encrypted text is then displayed.
+ | User inputs characters            | The characters is then encrypted  or decypted.| Decrypted or encrypted text is then displayed.
+
+
+ ## Technologies Used
+ To come up with the application, I used Java.
+ on Intellij IDEA
