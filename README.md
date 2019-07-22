@@ -16,4 +16,4 @@ Run the application in terminal.
 
  | INPUT                             | BEHAVIOUR                               | OUTPUT                                                        |
  |-----------------------------------|-----------------------------------------|---------------------------------------------------------------|
- | User inputs word                  | The word is then encrypted  or decypted.| Decrypted or encrypted text is then displayed.     
+ | User inputs word                  | The word is then encrypted  or decypted.| Decrypted or encrypted text is then displayed.
