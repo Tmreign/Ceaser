@@ -24,3 +24,4 @@ Run the application in terminal.
  on Intellij IDEA
 
  ## Support and contact details
+slack@tom
