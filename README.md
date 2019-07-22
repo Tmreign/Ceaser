@@ -22,3 +22,5 @@ Run the application in terminal.
  ## Technologies Used
  To come up with the application, I used Java.
  on Intellij IDEA
+
+ ## Support and contact details
